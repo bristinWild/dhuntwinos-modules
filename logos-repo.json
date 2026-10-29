@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "name": "CHANGE-ME-modules",
-  "displayName": "CHANGE ME — My Logos Modules",
-  "description": "A short human description of this module catalog.",
-  "homepage": "https://example.com/modules",
-  "indexUrl": "https://github.com/CHANGE-ME-OWNER/CHANGE-ME-REPO/releases/download/index/index.json",
+  "name": "dhuntwinos-modules",
+  "displayName": "DhunTwin OS",
+  "description": "Digital twin modules for Logos and ZuGrama Field Station.",
+  "homepage": "https://github.com/bristinWild/dhuntwinos-modules",
+  "indexUrl": "https://github.com/bristinWild/dhuntwinos-modules/releases/download/index/index.json",
   "trustedSigners": []
 }
